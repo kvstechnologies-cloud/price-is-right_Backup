@@ -1,0 +1,13 @@
+{
+  "aws_project_region": "us-east-1",
+  "aws_cloud_logic_custom": [
+    {
+      "name": "pricingApi",
+      "endpoint": "https://udjszezwob.execute-api.us-east-1.amazonaws.com/stage",
+      "region": "us-east-1"
+    }
+  ],
+  "aws_content_delivery_bucket": "priceisright-20250723232037-hostingbucket-stage",
+  "aws_content_delivery_bucket_region": "us-east-1",
+  "aws_content_delivery_url": "https://d3sdwjcedkrjvd.cloudfront.net"
+}
